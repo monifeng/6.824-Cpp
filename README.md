@@ -1,5 +1,7 @@
 # MIT-6.824-Cpp
-4 Labs and some notes that learing from MIT 6.824. 
+4 Labs and some notes that learing from MIT 6.824
+
+###所有内容均在整合再MIT-6.824文件中，为方便阅读后续会分割为几个部分。
 
 完成Mapreduce论文阅读笔记
 -- 2023/4/27
