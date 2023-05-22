@@ -1,4 +1,4 @@
-# MIT-6.824-go
+# MIT-6.824
 4 Labs and some notes that learing from MIT 6.824
 
 ## 所有内容均整合在MIT-6.824.md中，后续会分割为几个部分。
