@@ -19,4 +19,4 @@
 
 由于课程明确要求不上传实验源代码(鼓励大家自己动手实操解决问题)，所以github上只放我的笔记，如果实在需要一份源码作为参考，可以参考我的gitee：[lab1-C++](https://gitee.com/moni_world/mit6.824-cpp.git)
 
-后续lab(go语言实现)：[lab-go]([...](https://gitee.com/moni_world/6.824.git)
+后续lab(go语言实现)：[lab-go](https://gitee.com/moni_world/6.824.git)
